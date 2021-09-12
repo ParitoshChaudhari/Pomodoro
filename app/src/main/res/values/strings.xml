@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Pomodoro</string>
+    <string name="today_main">Today</string>
+    <string name="_25_m_main">25 M</string>
+    <string name="_35_m_main">35 M</string>
+    <string name="_60_m_main">60 M</string>
+    <string name="today_s_achievement_main">Today\'s achievement :</string>
+    <string name="_0_m_main">0 M</string>
+    <string name="message_1">If you cannot do great things</string>
+    <string name="message_2">do small things in a great way</string>
+
+</resources>
